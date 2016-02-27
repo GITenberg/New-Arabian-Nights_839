@@ -1,0 +1,43 @@
+_repo: New-Arabian-Nights_839
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: "New Arabian Nights by Robert Louis Stevenson, first published in 1882,\
+  \ is a collection of short stories previously published in magazines between 1877\
+  \ and 1880. The collection contains Stevenson's first published fiction, and a few\
+  \ of the stories are considered by some critics to be his best work, as well as\
+  \ pioneering works in the English short story tradition.\n^ \n^\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '839'
+  wikidata: Q3234271
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories, English'
+tableOfContents: 'The Suicide Club -- The rajah''s diamond -- The pavilion on the
+  links -- A lodging for the night: a story of Francis Villon -- The Sire de Maletroit''s
+  door -- Providence and the guitar.'
+title: New Arabian Nights
+url: http://www.gutenberg.org/ebooks/839
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Nouvelles_Mille_et_Une_Nuits
+- https://ja.wikipedia.org/wiki/%E6%96%B0%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E5%A4%9C%E8%A9%B1
+- https://ru.wikiquote.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B0_%D0%B8_%D0%BE%D0%B4%D0%BD%D0%B0_%D0%BD%D0%BE%D1%87%D1%8C
+- https://es.wikipedia.org/wiki/Las_nuevas_mil_y_una_noches
+- https://en.wikipedia.org/wiki/New_Arabian_Nights
+- https://commons.wikimedia.org/wiki/Category:New_Arabian_Nights
+- https://it.wikipedia.org/wiki/Le_nuove_Mille_e_una_notte

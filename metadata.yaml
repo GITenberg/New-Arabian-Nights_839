@@ -1,5 +1,5 @@
 _repo: New-Arabian-Nights_839
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Short stories'
 - !lcsh 'Adventure stories, English'
+- GITenberg
 tableOfContents: 'The Suicide Club -- The rajah''s diamond -- The pavilion on the
   links -- A lodging for the night: a story of Francis Villon -- The Sire de Maletroit''s
   door -- Providence and the guitar.'
